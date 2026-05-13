@@ -1,6 +1,6 @@
 # tu1teraz-releases
 
-tu1teraz to lokalny czat ogłoszeniowo-informacyjny w czasie rzeczywistym, która łączy mieszkańców w promieniu 10 km. Platforma umożliwia zarówno oferowanie płatnych zleceń, jak i bezinteresowną pomoc sąsiedzką. Dzięki wykorzystaniu geolokalizacji i powiadomień push, użytkownicy mogą natychmiastowo reagować na potrzeby społeczności gdziekolwiek się znajdują, budując przy tym swoją wiarygodność poprzez system opinii i ocen
+tu1teraz to lokalny czat ogłoszeniowo-informacyjny w czasie rzeczywistym, która łączy mieszkańców w promieniu 10 km. Platforma umożliwia zarówno oferowanie płatnych zleceń, jak i bezinteresowną pomoc sąsiedzką. Dzięki wykorzystaniu geolokalizacji i powiadomień push, użytkownicy mogą natychmiastowo reagować na potrzeby społeczności gdziekolwiek się znajdują, budując przy tym swoją wiarygodność poprzez system opinii i ocen w sekcji blisko mnie tylko do 2km sasiedzi w pomocy.
 
 Hello everyone! I’m excited to introduce an app that makes managing local matters much simpler.
 
